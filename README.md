@@ -30,6 +30,7 @@ Additionally, it explores the impact of different variable transformations (none
 
 - `thesis documents`
   - `santtosh_159193_fyp_final.pdf`: Thesis draft containing an in-depth analysis of the project, including methodology, experiments, results, and findings.
+  - This thesis is available in: https://mega.nz/folder/eNsDDJbS#3-ydnHqzrpcH__CrfLcUvQ
     
 - `scripts`: Folder containing the primary codebase.
   - `star_galaxy_classification.py`: script to run the classification using different discriminants (ANN, BDT, Fisher, Mahalanobis, H-Matrix, Linear Discriminants) and apply various transformations (none, N, U,                                        G, D, PCA) for the classification of part A ( star/galaxy classification)
